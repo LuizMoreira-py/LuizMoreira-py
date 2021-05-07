@@ -6,6 +6,15 @@
 
 [![Luiz.py wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luizmoreirapy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/LuizMoreira-py/count.svg" />
+ </p>
+
+</p>
+
 <!--
 **LuizMoreira-py/LuizMoreira-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
