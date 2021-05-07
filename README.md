@@ -2,9 +2,9 @@
 
 [![Luiz.py GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizMoreira-py&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMoreira-py&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMoreira-py&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Luiz.py wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuizMoreira-py)](https://github.com/anuraghazra/github-readme-stats)
+[![Luiz.py wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luizmoreirapy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LuizMoreira-py/LuizMoreira-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
