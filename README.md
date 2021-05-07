@@ -1,10 +1,8 @@
 ### Hi there 👋
 
+[![Luiz.py GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizMoreira-py&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LuizMoreira-py/LuizMoreira-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 
 Here are some ideas to get you started:
 
