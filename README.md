@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!DOCTYPE html>
 <html lang="pt-br">
