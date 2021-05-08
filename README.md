@@ -6,16 +6,13 @@
 <body>
     <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=LuizMoreira-py&show_icons=true&theme=radical" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuizMoreira-py&show_icons=true&theme=radical" />
         </a>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" height="165"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMoreira-py&layout=compact&show_icons=true&theme=radical" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMoreira-py&layout=compact&show_icons=true&theme=radical" />
         </a>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" height="165"
-                src="https://github-readme-stats.vercel.app/api/wakatime?username=luizmoreirapy&theme=radical" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=luizmoreirapy&theme=radical" />
         </a>
     </p>
 </body>
